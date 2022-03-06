@@ -1,0 +1,31 @@
+.a1{
+	border-color: blue;
+	padding: 0px 20px;
+	border-radius: 25px;
+	background-color:rgb(154,176,155);
+    padding:5px; 
+}
+
+.d1{
+background-color:#558a81;
+width: 20%;
+height: 40%;
+align-items: center;
+margin-top: 100px;
+margin-left: 500px;
+border-radius: 30PX;
+padding: 10px;
+border-color: solid 133px yellow;
+color:purple;
+
+
+}
+.b1{
+	background-color:blue;
+	padding: 5px 25px;
+	border-radius: 15px;
+}
+ input{
+ 	color: purple;
+ 	
+ }
